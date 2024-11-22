@@ -33,7 +33,9 @@
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string>This app needs your location to show nearby content.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>This app needs access to your location in the background.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
